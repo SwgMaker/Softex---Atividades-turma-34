@@ -1,0 +1,3 @@
+livros = ['o capital', 'O Silmarillion', 'O pequeno principe']
+print('Primeiro Livro: ', livros[0])
+print('Ultimo Livro: ', livros[-1])

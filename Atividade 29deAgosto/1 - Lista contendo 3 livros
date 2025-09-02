@@ -1,0 +1,2 @@
+livros = ['o capital', 'O Silmarillion', 'O pequeno principe']
+print(livros)
